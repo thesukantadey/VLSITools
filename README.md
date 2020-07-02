@@ -44,6 +44,8 @@ Machine Learning-based Power Grid Generator: OpeNPDN (https://github.com/The-Ope
 
 Static Timing Analysis: OpenSTA (https://github.com/The-OpenROAD-Project/OpenSTA)
 
+Static Timing Analysis: OpenTimer (https://github.com/thesukantadey/OpenTimer)
+
 Global Router: TritonRoute (https://github.com/The-OpenROAD-Project/TritonRoute)
 
 Physical Flow Integration: Yosys (https://github.com/The-OpenROAD-Project/yosys) 
