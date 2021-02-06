@@ -2,6 +2,8 @@
 # Open Source VLSI Tools
 Open Source tools are emerging for the further development of VLSI research. In this blog, I have listed some of the tools which I have come across in my research life. It is also to be noted the recent OpenRoad project is also trying to create the whole RTL to GDS flow opensourced. You can check their website (https://theopenroadproject.org/). These tools are very helpful in pursuing VLSI-related research. Please find the tools list below,
 
+FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation: (https://fires.im/) (https://github.com/firesim/firesim)
+
 Mixed-signal Circuit Layout: MAGIC (http://opencircuitdesign.com/magic/)
 
 Circuit simulator: ngSPICE  (http://ngspice.sourceforge.net/download.html)
